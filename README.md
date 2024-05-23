@@ -1,6 +1,6 @@
 ## K. Durga Kalyan
 
-# I'm currently a 2nd-year B.Tech student specializing in Information Technology at VIT, Vellore. 
+**I'm currently a 2nd-year B.Tech student specializing in Information Technology at VIT, Vellore.**
 
 - I'm interested in Full Stack Web Development
 - I'm currently 
