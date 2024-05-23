@@ -2,8 +2,6 @@
 
 **I'm currently a 2nd-year B.Tech student specializing in Information Technology at VIT, Vellore.**
 
-- I'm interested in Full Stack Web Development
-- I'm currently 
 <!--
 **DURGAKALYAN27/DURGAKALYAN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
