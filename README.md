@@ -1,6 +1,6 @@
 ## K. Durga Kalyan
 
-**I'm currently a final year B.Tech student in Information Technology at VIT, Vellore.**
+**I'm currently a final year B.Tech IT student at VIT, Vellore.**
 
 <!--
 **DURGAKALYAN27/DURGAKALYAN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
