@@ -1,6 +1,6 @@
 ## K. Durga Kalyan
 
-**I'm currently a final year B.Tech IT student at VIT, Vellore.**
+**I graduated from VIT, Vellore in 2026 in B.Tech IT. I'm currently an MBA first year at Vinod Gupta School of Management, IIT Kharagapur.**
 
 <!--
 **DURGAKALYAN27/DURGAKALYAN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
